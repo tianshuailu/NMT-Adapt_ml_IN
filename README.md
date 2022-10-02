@@ -1,5 +1,9 @@
 # Applying NMT-Adapt to Malayalam
+This repository provides code for applying the NMT-Adapt approach to build an English Malayalam translation model with the methods from this paper: 
 
+(Ko et al., 2021) [Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data](https://aclanthology.org/2021.acl-long.66.pdf)
+
+### Basic setup
 Install sentencepiece and fairseq
 ```
 pip install sentencepiece
