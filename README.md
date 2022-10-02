@@ -60,5 +60,6 @@ All additional python code we used during the experiment are in this directory:
 ## Language data
 The Malayalam monolingual data are from https://ai4bharat.iitm.ac.in/corpora
 
-The English Hindi parallel data are from https://ai4bharat.iitm.ac.in/samanantar
+The English - Hindi parallel data are from https://ai4bharat.iitm.ac.in/samanantar
 
+The English - Malayalam parallel data are also from https://ai4bharat.iitm.ac.in/samanantar
